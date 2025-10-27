@@ -1,0 +1,525 @@
+.elementor-342 .elementor-element.elementor-element-0d98834 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --overlay-opacity: 0.27;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    --border-top-width: 1px;
+    --border-right-width: 0px;
+    --border-bottom-width: 0px;
+    --border-left-width: 0px;
+    border-color: #414347;
+    --border-color: #414347;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-342 .elementor-element.elementor-element-0d98834:not(.elementor-motion-effects-element-type-background), .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-342 .elementor-element.elementor-element-0d98834::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .e-con-inner > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .e-con-inner > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: #1B1B1B;
+    background-image: url("https://sachicoin.com/wp-content/uploads/2025/10/3a0b40d96c53860572a1c29970ce14a8.gif");
+    --background-overlay: '';
+    background-position: bottom center;
+    background-size: 17% auto;
+}
+
+.elementor-342 .elementor-element.elementor-element-439e629 {
+    --display: flex;
+}
+
+.elementor-342 .elementor-element.elementor-element-439e629.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var( --e-global-color-text );
+    font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight );
+}
+
+.elementor-342 .elementor-element.elementor-element-1945317 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-1945317 img {
+    width: 12%;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    border-color: #FFA300;
+    border-radius: 360px 360px 360px 360px;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight );
+    color: var( --e-global-color-primary );
+}
+
+.elementor-342 .elementor-element.elementor-element-661e5de {
+    width: var( --container-widget-width, 78% );
+    max-width: 78%;
+    margin: 0px 0px calc(var(--kit-widget-spacing, 0px) + -26px) 0px;
+    --container-widget-width: 78%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-342 .elementor-element.elementor-element-661e5de .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+
+.elementor-widget-text-editor {
+    font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight );
+    color: var( --e-global-color-text );
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var( --e-global-color-primary );
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var( --e-global-color-primary );
+    border-color: var( --e-global-color-primary );
+}
+
+.elementor-342 .elementor-element.elementor-element-12261e4 {
+    margin: 16px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;
+    text-align: left;
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-9520779 {
+    --display: flex;
+}
+
+.elementor-342 .elementor-element.elementor-element-9520779.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-342 .elementor-element.elementor-element-7886c4a {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-7886c4a .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.elementor-342 .elementor-element.elementor-element-d6611c7 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-d6611c7 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-f5cd7f3 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-f5cd7f3 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-6e0fb17 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-6e0fb17 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-2443df1 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-2443df1 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-ea01563 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-ea01563 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-c59d5d0 {
+    --display: flex;
+}
+
+.elementor-342 .elementor-element.elementor-element-c59d5d0.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-342 .elementor-element.elementor-element-d2dc182 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-d2dc182 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.elementor-342 .elementor-element.elementor-element-5553968 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-5553968 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-70607a3 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-70607a3 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-f6ba60e {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-f6ba60e .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-8855fda {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-8855fda .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-906cabd {
+    --display: flex;
+}
+
+.elementor-342 .elementor-element.elementor-element-906cabd.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-342 .elementor-element.elementor-element-36cdfe7 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-36cdfe7 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.elementor-342 .elementor-element.elementor-element-2e0cb31 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-2e0cb31 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-b3980b5 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-b3980b5 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-8cff602 {
+    text-align: left;
+}
+
+.elementor-342 .elementor-element.elementor-element-8cff602 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #E4E4E4;
+}
+
+.elementor-342 .elementor-element.elementor-element-2ebf346 {
+    --display: flex;
+    --overlay-opacity: 0.27;
+}
+
+.elementor-342 .elementor-element.elementor-element-2ebf346:not(.elementor-motion-effects-element-type-background), .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-342 .elementor-element.elementor-element-2ebf346::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .e-con-inner > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .e-con-inner > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: #000000;
+    background-image: url("https://sachicoin.com/wp-content/uploads/2025/10/3a0b40d96c53860572a1c29970ce14a8.gif");
+    --background-overlay: '';
+    background-position: bottom center;
+    background-size: 17% auto;
+}
+
+.elementor-342 .elementor-element.elementor-element-85d0120 {
+    padding: 20px 0px 5px 0px;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #414347;
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: #6D6D6D;
+}
+
+.elementor-342 .elementor-element.elementor-element-85d0120 a {
+    color: #FFA300;
+}
+
+@media(max-width: 1024px) {
+    .elementor-342 .elementor-element.elementor-element-1945317 img {
+        width:36%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-661e5de {
+        --container-widget-width: 864px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 864px );
+        max-width: 864px;
+        text-align: left;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-d2dc182 .elementor-heading-title {
+        line-height: 1.2em;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-36cdfe7 .elementor-heading-title {
+        line-height: 1.2em;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-85d0120 {
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 768px) {
+    .elementor-342 .elementor-element.elementor-element-0d98834 {
+        --content-width:1443px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-439e629 {
+        --width: 38.053%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-9520779 {
+        --width: 13.938%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-c59d5d0 {
+        --width: 13.938%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-906cabd {
+        --width: 13.938%;
+    }
+}
+
+@media(max-width: 1024px) and (min-width:768px) {
+    .elementor-342 .elementor-element.elementor-element-0d98834 {
+        --content-width:1600px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-439e629 {
+        --width: 29.241%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-9520779 {
+        --width: 20%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-c59d5d0 {
+        --width: 20%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-906cabd {
+        --width: 20%;
+    }
+}
+
+@media(min-width: 1367px) {
+    .elementor-342 .elementor-element.elementor-element-0d98834::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .e-con-inner > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .e-con-inner > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+        background-attachment:fixed;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-2ebf346::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .e-con-inner > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .e-con-inner > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+        background-attachment: fixed;
+    }
+}
+
+@media(max-width: 1366px) {
+    .elementor-342 .elementor-element.elementor-element-0d98834 {
+        --padding-top:50px;
+        --padding-bottom: 50px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-661e5de {
+        text-align: center;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-661e5de .elementor-heading-title {
+        line-height: 55px;
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-342 .elementor-element.elementor-element-0d98834::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .e-con-inner > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .e-con-inner > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-0d98834 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+        background-image:url("https://sachicoin.com/wp-content/uploads/2025/10/Untitled-design-2025-10-19T215900.316.jpg");
+        background-size: cover;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-0d98834 {
+        --overlay-opacity: 1;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-1945317 img {
+        width: 33%;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-661e5de {
+        width: var( --container-widget-width, 315px );
+        max-width: 315px;
+        --container-widget-width: 315px;
+        --container-widget-flex-grow: 0;
+        text-align: left;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-661e5de .elementor-heading-title {
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-12261e4 {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-d6611c7 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-f5cd7f3 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-6e0fb17 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-2443df1 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-ea01563 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-5553968 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-70607a3 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-8855fda .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-2e0cb31 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-b3980b5 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-8cff602 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-2ebf346::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .e-con-inner > .elementor-background-video-container::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .e-con-inner > .elementor-background-slideshow::before, .elementor-342 .elementor-element.elementor-element-2ebf346 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+        background-image: url("https://sachicoin.com/wp-content/uploads/2025/10/Untitled-design-2025-10-19T215900.316.jpg");
+        background-size: cover;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-2ebf346 {
+        --min-height: 0px;
+        --overlay-opacity: 1;
+    }
+
+    .elementor-342 .elementor-element.elementor-element-85d0120 {
+        text-align: center;
+    }
+}
